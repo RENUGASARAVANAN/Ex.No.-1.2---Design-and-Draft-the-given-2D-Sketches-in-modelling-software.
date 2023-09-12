@@ -36,6 +36,9 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+![EXP 1 2](https://github.com/RENUGASARAVANAN/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/119292258/73240dbe-1b6e-4da5-bceb-c645baca80fa)
+
+ 
  
  
  ## RESULT
